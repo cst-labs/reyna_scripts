@@ -1,0 +1,15 @@
+.env
+.venv/
+.vscode/
+.idea/
+.DS_Store
+
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ipynb_checkpoints
+*.log

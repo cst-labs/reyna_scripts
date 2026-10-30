@@ -1,0 +1,25 @@
+# Local datasets and generated outputs
+/admissionprediction-master/Results/
+/iranhospital/data/
+/iranhospital/output/
+/ktasanalysis/data/
+/ktasanalysis/scripts/analysis/output/
+/ktasanalysis/scripts/analysis2/output/
+/ktasanalysis/scripts/analysis3/output/
+/llms-for-triage-main/data/
+/llms-for-triage-main/models/
+/llms-for-triage-main/results/
+/llms-for-triage-main/trainer_output/
+/llms-for-triage-main/edtriage.ipynb
+/ttsh/data/
+/ttsh/analysis/
+/ttsh/archive/backups/
+/ttsh/merged/
+/ttsh/models/
+/ttsh/experiments/ct_priority_embeddinggemma2/results/
+/ttsh/.claude/
+/ttsh/20 Oct IMDA-TTSH CT Scan Prioritizer Update .pptx
+
+# Local machine artifacts
+.DS_Store
+__pycache__/

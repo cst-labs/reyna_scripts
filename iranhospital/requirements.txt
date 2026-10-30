@@ -1,0 +1,6 @@
+pandas
+openai
+seaborn
+matplotlib
+torch
+transformers

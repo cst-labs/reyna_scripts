@@ -1,0 +1,8 @@
+# Prepared clinical data, local model artifacts, and evaluation outputs
+privacy_key.bin
+data/*.xlsx
+results/*.xlsx
+results/*.json
+results/**/*.xlsx
+results/**/*.json
+artifacts/
